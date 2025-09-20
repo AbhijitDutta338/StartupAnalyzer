@@ -1,0 +1,2 @@
+# StartupAnalyzer
+GenAIHackathon_analyser
